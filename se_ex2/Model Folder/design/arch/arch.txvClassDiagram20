@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="V1hexuhiwdgjmcjj9gfgj">
+		<property name="$metaclass" value="ClassDiagram20"/>
+		<property name="$name" value="arch"/>
+		<property name="stereotype" value="access"/>
+		<reference referencedUin="design:view:::V1hexuhiwdfwauc-9d7c06">
+			<property name="bounds" value="1135,48,107,112"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+		</reference>
+		<reference referencedUin="design:view:::V1hexuhiwdfxtmk-675lqg">
+			<property name="bounds" value="1135,215,118,133"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+		</reference>
+		<reference referencedUin="design:view:::150ypliwdgkssc3x6olh">
+			<property name="bounds" value="15,27,201,75"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="design:link:::3s6yr9iwdgkssc-ycpki2">
+			<property name="sourceAnchor" value="178,107"/>
+			<property name="targetAnchor" value="178,200"/>
+			<property name="location_set_by_user" value="true"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::3s6yr9iwdgkssc-ycpki2">
+				<property name="bounds" value="140,140,41,25"/>
+				<property name="weight" value="0.3548387096774194"/>
+				<property name="location_set_by_user" value="true"/>
+			</reference>
+		</reference>
+		<reference referencedUin="design:link:::efvasqiwdgkssc34po64">
+			<property name="sourceAnchor" value="221,102"/>
+			<property name="targetAnchor" value="280,102"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::efvasqiwdgkssc34po64">
+				<property name="bounds" value="230,74,41,25"/>
+			</reference>
+		</reference>
+		<reference referencedUin="design:link:::dx3i7oiwdgkssc-ecy1dg">
+			<property name="sourceAnchor" value="264,115"/>
+			<property name="targetAnchor" value="361,206"/>
+		</reference>
+		<reference referencedUin="design:view:::nhdrgfiwdglbb0z5nq0s">
+			<property name="bounds" value="275,48,181,78"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="design:link:::c1b5k6iwdglbb01mdk8j">
+			<property name="sourceAnchor" value="629,264"/>
+			<property name="targetAnchor" value="491,264"/>
+		</reference>
+		<reference referencedUin="design:view:::dc9mxriwdgnr9r83rtg1">
+			<property name="bounds" value="15,195,201,81"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<property name="collapsedCompartments" value=""/>
+		</reference>
+		<reference referencedUin="design:link:::51emepiwdgnr9s-aihmpp">
+			<property name="sourceAnchor" value="197,200"/>
+			<property name="targetAnchor" value="304,131"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::51emepiwdgnr9s-aihmpp">
+				<property name="bounds" value="230,115,41,25"/>
+			</reference>
+		</reference>
+		<reference referencedUin="design:link:::ngaflyiwdgnr9s-3rzfi4">
+			<property name="sourceAnchor" value="197,200"/>
+			<property name="targetAnchor" value="197,107"/>
+			<property name="location_set_by_user" value="true"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::ngaflyiwdgnr9s-3rzfi4">
+				<property name="bounds" value="200,141,41,25"/>
+			</reference>
+		</reference>
+		<reference referencedUin="design:link:::ieje0riwdgonobr5g57z">
+			<property name="sourceAnchor" value="1199,165"/>
+			<property name="targetAnchor" value="1199,220"/>
+			<property name="bendpoints" value=""/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::ieje0riwdgonobr5g57z">
+				<property name="bounds" value="1202,180,61,25"/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:application.logic.model.Model">
+			<property name="bounds" value="415,400,200,119"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<reference referencedUin="jdt:l_dpn:src:application.logic.model.Model:lnkView">
+				<property name="sourceAnchor" value="631,440"/>
+				<property name="targetAnchor" value="880,221"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.logic.model.Model:lnkIConnection">
+				<property name="sourceAnchor" value="680,480"/>
+				<property name="targetAnchor" value="840,480"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.logic.model.Model:lnkSubject">
+				<property name="sourceAnchor" value="620,448"/>
+				<property name="targetAnchor" value="680,448"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.logic.model.Model:lnkCtrl">
+				<property name="sourceAnchor" value="500,440"/>
+				<property name="targetAnchor" value="500,261"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:application.gui.view.View">
+			<property name="bounds" value="835,125,197,119"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.view.View:lnkObserver">
+				<property name="sourceAnchor" value="958,249"/>
+				<property name="targetAnchor" value="958,411"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.view.View:lnkModel">
+				<property name="sourceAnchor" value="847,249"/>
+				<property name="targetAnchor" value="610,405"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:e_method:src:application.gui.view.View.View:View">
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.view.View:lnkIConnection">
+				<property name="sourceAnchor" value="880,221"/>
+				<property name="targetAnchor" value="880,446"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:application.logic.Observer">
+			<property name="bounds" value="835,406,200,101"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:application.logic.Subject">
+			<property name="$shortcutReference" value="true"/>
+			<property name="bounds" value="675,406,112,122"/>
+			<property name="location_set_by_user" value="true"/>
+			<reference referencedUin="jdt:l_dpn:src:design.arch.Subject:lnkObserver">
+				<property name="sourceAnchor" value="792,429"/>
+				<property name="targetAnchor" value="840,429"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+		</reference>
+		<reference referencedUin="jdt:e_class:src:application.gui.view.Ctrl">
+			<property name="bounds" value="595,125,171,131"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+			<property name="$shortcutReference" value="true"/>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.controller.Ctrl:lnkObserver">
+				<property name="sourceAnchor" value="750,261"/>
+				<property name="targetAnchor" value="900,411"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:e_method:src:application.gui.view.Ctrl.Listeners:Listeners">
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.controller.Ctrl:lnkIConnection">
+				<property name="sourceAnchor" value="597,253"/>
+				<property name="targetAnchor" value="880,446"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.controller.Ctrl:lnkView">
+				<property name="sourceAnchor" value="771,175"/>
+				<property name="targetAnchor" value="840,175"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+			<reference referencedUin="jdt:l_dpn:src:application.gui.controller.Ctrl:lnkModel">
+				<property name="sourceAnchor" value="610,261"/>
+				<property name="targetAnchor" value="610,405"/>
+				<property name="bendpoints" value=""/>
+			</reference>
+		</reference>
+	</view>
+</nodeSet>

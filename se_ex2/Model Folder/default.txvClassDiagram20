@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="V1hexuhiwdffygpdl2bl7">
+		<property name="$defaultDiagram" value="true"/>
+		<property name="$metaclass" value="ClassDiagram20"/>
+		<property name="stereotype" value="access"/>
+		<reference referencedUin="design:view:::V1hexuhiwdfgcsa9e5mz9">
+			<property name="bounds" value="55,35,361,341"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="design:view:::V1hexuhiwdfgoce-t2iozb">
+			<property name="bounds" value="475,25,461,361"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+	</view>
+</nodeSet>

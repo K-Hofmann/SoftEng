@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="V1hexuhiwdfwauc-9d7c06">
+		<property name="$defaultDiagram" value="true"/>
+		<property name="$metaclass" value="ClassDiagram20"/>
+		<reference referencedUin="design:view:::150ypliwdgkssc3x6olh">
+			<property name="bounds" value="35,235,87,91"/>
+			<property name="location_set_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="design:view:::dc9mxriwdgnr9r83rtg1">
+			<property name="bounds" value="395,175,87,91"/>
+			<property name="location_set_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="design:link:::ngaflyiwdgnr9s-3rzfi4">
+			<property name="sourceAnchor" value="400,255"/>
+			<property name="targetAnchor" value="127,255"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::ngaflyiwdgnr9s-3rzfi4">
+				<property name="bounds" value="193,227,41,25"/>
+			</reference>
+		</reference>
+		<reference referencedUin="design:link:::3s6yr9iwdgkssc-ycpki2">
+			<property name="sourceAnchor" value="127,247"/>
+			<property name="targetAnchor" value="400,247"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::3s6yr9iwdgkssc-ycpki2">
+				<property name="bounds" value="243,219,41,25"/>
+			</reference>
+		</reference>
+	</view>
+</nodeSet>

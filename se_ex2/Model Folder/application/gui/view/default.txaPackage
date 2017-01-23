@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<link uin="51emepiwdgnr9s-aihmpp">
+		<property name="$metaclass" value="Dependency20"/>
+		<property name="stereotype" value="use"/>
+		<participant referencedUin="uml:package::src:application.gui.view" role="Client"></participant>
+		<participant referencedUin="uml:package::src:application.logic.model" role="Supplier"></participant>
+	</link>
+	<link uin="ngaflyiwdgnr9s-3rzfi4">
+		<property name="$metaclass" value="Dependency20"/>
+		<property name="stereotype" value="use"/>
+		<participant referencedUin="uml:package::src:application.gui.view" role="Client"></participant>
+		<participant referencedUin="uml:package::src:application.gui.controller" role="Supplier"></participant>
+	</link>
+	<link uin="pbvt5aiwdgnr9tz2g8z7">
+		<property name="$metaclass" value="Dependency20"/>
+		<participant referencedUin="uml:package::src:application.gui.view" role="Client"></participant>
+		<participant referencedUin="uml:package::src:application.Iconection" role="Supplier"></participant>
+	</link>
+</nodeSet>

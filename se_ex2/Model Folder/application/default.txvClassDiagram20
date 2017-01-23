@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<nodeSet  version="1.1">
+	<view uin="V1hexuhiwdfgoce-t2iozb">
+		<property name="$defaultDiagram" value="true"/>
+		<property name="$metaclass" value="ClassDiagram20"/>
+		<node uin="156bx8iwdfqrrnwab4mh">
+			<property name="$metaclass" value="Guide"/>
+			<property name="$name" value="Guide1"/>
+			<property name="horizontal" value="true"/>
+			<property name="position" value="21"/>
+			<node uin="-j1khk1iwdggshu-60o07g">
+				<property name="$metaclass" value="GuideAttachment"/>
+				<property name="$name" value="GuideAttachment1"/>
+				<property name="alignment" value="-1"/>
+			</node>
+		</node>
+		<node uin="156bx8iwdfqtb6o7ni5e">
+			<property name="$metaclass" value="Guide"/>
+			<property name="$name" value="Guide2"/>
+			<property name="horizontal" value="true"/>
+			<property name="position" value="246"/>
+			<node uin="-j1khk1iwdfssb0287xt6">
+				<property name="$metaclass" value="GuideAttachment"/>
+				<property name="$name" value="GuideAttachment1"/>
+				<property name="alignment" value="1"/>
+			</node>
+		</node>
+		<reference referencedUin="design:view:::V1hexuhiwdfwauc-9d7c06">
+			<property name="bounds" value="315,595,181,161"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="design:view:::V1hexuhiwdfxtmk-675lqg">
+			<property name="bounds" value="655,635,201,161"/>
+			<property name="location_set_by_user" value="true"/>
+			<property name="bounds_setted_by_user" value="true"/>
+		</reference>
+		<reference referencedUin="design:link:::ieje0riwdgonobr5g57z">
+			<property name="sourceAnchor" value="501,700"/>
+			<property name="targetAnchor" value="660,700"/>
+			<reference referencedUin="label:$stereotypesInplace:design:link:::ieje0riwdgonobr5g57z">
+				<property name="bounds" value="550,672,61,25"/>
+			</reference>
+		</reference>
+	</view>
+</nodeSet>
